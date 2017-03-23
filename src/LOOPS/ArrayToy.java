@@ -5,6 +5,9 @@ package HomeOne;
  */
 
 // nvnvnhjhjhjhmhghmbghmghghghg jhjhkhhjkh hjhihjyhih h hhjhihjh
+
+
+    /// dfgdfdsfgggggggc fghf
 public class ArrayToy {
 
     static int[] Numeric = new int[10];
